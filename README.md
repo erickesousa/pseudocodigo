@@ -1,2 +1,2 @@
-# pseudocodigo
+# Pseudocodigo
 Códigos Visualg
